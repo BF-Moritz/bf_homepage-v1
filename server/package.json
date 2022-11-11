@@ -12,11 +12,10 @@
 	"author": "BF_Moritz <contact@bfmoritz.de> (https://bfmoritz.de/)",
 	"license": "ISC",
 	"dependencies": {
+		"axios": "^0.21.1",
 		"cors": "^2.8.5",
 		"dotenv": "^10.0.0",
 		"express": "^4.17.1",
-		"google-auth-library": "^7.6.1",
-		"googleapis": "^84.0.0",
 		"morgan": "^1.10.0"
 	},
 	"devDependencies": {
